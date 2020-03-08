@@ -1,0 +1,1 @@
+web: gunicorn aifi.wsgi --log-file -
