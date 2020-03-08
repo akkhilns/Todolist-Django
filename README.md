@@ -1,2 +1,2 @@
 # django
-Django Todolist
+Todolist App in Django
